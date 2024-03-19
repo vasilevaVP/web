@@ -1,3 +1,54 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
+    margin: 0 auto;
+    background-color: #FFF5E8;
 }
+header{
+    padding: 27px  255px 0 255px;
+    margin: 0 auto;
+
+}
+.nav{
+    max-width: 1920px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    gap: 408px;
+    align-items: center;
+    justify-content: flex-start;
+}
+.nav ul{
+    align-items: center;
+    max-width: 1920px;
+    margin: 0 auto;
+    display: flex;
+    padding: 0;
+    gap: 60px;
+
+}
+.nav li{
+
+    list-style: none;
+    font: 600 14px Nunito;
+}
+
+.namber{
+    display: flex;
+    gap: 15px;
+
+    align-items: center;
+}
+.head{
+    display: flex;
+}
+
+section{
+    padding: 27px  255px 0 255px;
+    margin: 0 auto;
+    display: flex;
+    background-color:#B95249
+}
+.img1{
+    width: 68%;
+}
+
