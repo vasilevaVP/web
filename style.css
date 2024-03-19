@@ -158,3 +158,16 @@ footer {
     margin: 0;
 }
 
+block{
+    margin-top: 100px;
+    padding: 0 240px 0 240px;
+display: flex;
+gap: 180px;
+}
+.txt p{
+font: var(--p);
+color: var(--bardo);
+}
+.txt{
+    width: 490px;
+}
